@@ -1,5 +1,5 @@
 {
-  "name": "npm-package-example",
+  "name": "npm-package-example-fieldproxy",
   "version": "0.0.0-development",
   "description": "This is a simple npm package example",
   "main": "dist/index.js",
